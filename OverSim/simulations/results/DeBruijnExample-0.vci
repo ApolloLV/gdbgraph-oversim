@@ -1,0 +1,120 @@
+                                                                
+version 2
+run DeBruijnExample-0-20171004-10:20:24-3542
+attr N 100
+attr configname DeBruijnExample
+attr datetime 20171004-10:20:24
+attr experiment DeBruijnExample
+attr inifile VADs_Projekt_jdrees.ini
+attr iterationvars $N=100
+attr iterationvars2 "$N=100, $repetition=0"
+attr measurement $N=100
+attr network oversim.underlay.simpleunderlay.SimpleUnderlayNetwork
+attr processid 3542
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 1  "SimpleUnderlayNetwork.Node [0].overlay.deBruijnNode"  "Topology Changed"  ETV
+vector 2  "SimpleUnderlayNetwork.Node [1].overlay.deBruijnNode"  "Topology Changed"  ETV
+vector 3  "SimpleUnderlayNetwork.Node [2].overlay.deBruijnNode"  "Topology Changed"  ETV
+vector 6  SimpleUnderlayNetwork.overlayTerminal[5].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 5  "SimpleUnderlayNetwork.Node [4].overlay.deBruijnNode"  "Topology Changed"  ETV
+vector 8  SimpleUnderlayNetwork.overlayTerminal[7].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 9  SimpleUnderlayNetwork.overlayTerminal[8].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 10  SimpleUnderlayNetwork.overlayTerminal[9].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 14  SimpleUnderlayNetwork.overlayTerminal[13].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 12  SimpleUnderlayNetwork.overlayTerminal[11].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 16  SimpleUnderlayNetwork.overlayTerminal[15].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 15  SimpleUnderlayNetwork.overlayTerminal[14].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 18  SimpleUnderlayNetwork.overlayTerminal[17].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 7  SimpleUnderlayNetwork.overlayTerminal[6].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 19  SimpleUnderlayNetwork.overlayTerminal[18].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 11  SimpleUnderlayNetwork.overlayTerminal[10].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 32  SimpleUnderlayNetwork.overlayTerminal[31].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 4  "SimpleUnderlayNetwork.Node [3].overlay.deBruijnNode"  "Topology Changed"  ETV
+vector 17  SimpleUnderlayNetwork.overlayTerminal[16].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 34  SimpleUnderlayNetwork.overlayTerminal[33].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 29  SimpleUnderlayNetwork.overlayTerminal[28].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 36  SimpleUnderlayNetwork.overlayTerminal[35].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 37  SimpleUnderlayNetwork.overlayTerminal[36].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 40  SimpleUnderlayNetwork.overlayTerminal[39].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 39  SimpleUnderlayNetwork.overlayTerminal[38].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 27  SimpleUnderlayNetwork.overlayTerminal[26].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 38  SimpleUnderlayNetwork.overlayTerminal[37].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 24  SimpleUnderlayNetwork.overlayTerminal[23].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 46  SimpleUnderlayNetwork.overlayTerminal[45].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 49  SimpleUnderlayNetwork.overlayTerminal[48].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 52  SimpleUnderlayNetwork.overlayTerminal[51].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 22  SimpleUnderlayNetwork.overlayTerminal[21].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 45  SimpleUnderlayNetwork.overlayTerminal[44].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 35  SimpleUnderlayNetwork.overlayTerminal[34].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 56  SimpleUnderlayNetwork.overlayTerminal[55].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 33  SimpleUnderlayNetwork.overlayTerminal[32].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 54  SimpleUnderlayNetwork.overlayTerminal[53].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 55  SimpleUnderlayNetwork.overlayTerminal[54].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 60  SimpleUnderlayNetwork.overlayTerminal[59].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 65  SimpleUnderlayNetwork.overlayTerminal[64].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 23  SimpleUnderlayNetwork.overlayTerminal[22].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 67  SimpleUnderlayNetwork.overlayTerminal[66].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 20  SimpleUnderlayNetwork.overlayTerminal[19].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 63  SimpleUnderlayNetwork.overlayTerminal[62].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 13  SimpleUnderlayNetwork.overlayTerminal[12].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 69  SimpleUnderlayNetwork.overlayTerminal[68].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 41  SimpleUnderlayNetwork.overlayTerminal[40].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 48  SimpleUnderlayNetwork.overlayTerminal[47].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 53  SimpleUnderlayNetwork.overlayTerminal[52].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 79  SimpleUnderlayNetwork.overlayTerminal[78].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 21  SimpleUnderlayNetwork.overlayTerminal[20].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 82  SimpleUnderlayNetwork.overlayTerminal[81].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 83  SimpleUnderlayNetwork.overlayTerminal[82].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 50  SimpleUnderlayNetwork.overlayTerminal[49].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 84  SimpleUnderlayNetwork.overlayTerminal[83].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 71  SimpleUnderlayNetwork.overlayTerminal[70].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 74  SimpleUnderlayNetwork.overlayTerminal[73].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 87  SimpleUnderlayNetwork.overlayTerminal[86].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 25  SimpleUnderlayNetwork.overlayTerminal[24].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 76  SimpleUnderlayNetwork.overlayTerminal[75].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 43  SimpleUnderlayNetwork.overlayTerminal[42].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 47  SimpleUnderlayNetwork.overlayTerminal[46].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 85  SimpleUnderlayNetwork.overlayTerminal[84].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 42  SimpleUnderlayNetwork.overlayTerminal[41].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 88  SimpleUnderlayNetwork.overlayTerminal[87].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 77  SimpleUnderlayNetwork.overlayTerminal[76].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 30  SimpleUnderlayNetwork.overlayTerminal[29].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 92  SimpleUnderlayNetwork.overlayTerminal[91].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 26  SimpleUnderlayNetwork.overlayTerminal[25].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 95  SimpleUnderlayNetwork.overlayTerminal[94].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 64  SimpleUnderlayNetwork.overlayTerminal[63].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 97  SimpleUnderlayNetwork.overlayTerminal[96].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 57  SimpleUnderlayNetwork.overlayTerminal[56].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 44  SimpleUnderlayNetwork.overlayTerminal[43].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 28  SimpleUnderlayNetwork.overlayTerminal[27].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 51  SimpleUnderlayNetwork.overlayTerminal[50].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 101  SimpleUnderlayNetwork.globalObserver.globalStatistics  "GlobalNodeList: Number of nodes"  ETV
+vector 99  SimpleUnderlayNetwork.overlayTerminal[98].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 78  SimpleUnderlayNetwork.overlayTerminal[77].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 59  SimpleUnderlayNetwork.overlayTerminal[58].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 98  SimpleUnderlayNetwork.overlayTerminal[97].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 70  SimpleUnderlayNetwork.overlayTerminal[69].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 31  SimpleUnderlayNetwork.overlayTerminal[30].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 68  SimpleUnderlayNetwork.overlayTerminal[67].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 73  SimpleUnderlayNetwork.overlayTerminal[72].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 58  SimpleUnderlayNetwork.overlayTerminal[57].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 61  SimpleUnderlayNetwork.overlayTerminal[60].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 86  SimpleUnderlayNetwork.overlayTerminal[85].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 90  SimpleUnderlayNetwork.overlayTerminal[89].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 75  SimpleUnderlayNetwork.overlayTerminal[74].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 62  SimpleUnderlayNetwork.overlayTerminal[61].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 94  SimpleUnderlayNetwork.overlayTerminal[93].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 93  SimpleUnderlayNetwork.overlayTerminal[92].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 81  SimpleUnderlayNetwork.overlayTerminal[80].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 66  SimpleUnderlayNetwork.overlayTerminal[65].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 80  SimpleUnderlayNetwork.overlayTerminal[79].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 72  SimpleUnderlayNetwork.overlayTerminal[71].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 91  SimpleUnderlayNetwork.overlayTerminal[90].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 89  SimpleUnderlayNetwork.overlayTerminal[88].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 100  SimpleUnderlayNetwork.overlayTerminal[99].overlay.deBruijnNode  "Topology Changed"  ETV
+vector 96  SimpleUnderlayNetwork.overlayTerminal[95].overlay.deBruijnNode  "Topology Changed"  ETV

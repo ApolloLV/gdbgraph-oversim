@@ -1,0 +1,20 @@
+file 17744 1506084654                                           
+version 2
+run Clique_Example-0-20170922-14:50:03-24551
+attr configname Clique_Example
+attr datetime 20170922-14:50:03
+attr experiment Clique_Example
+attr inifile VADs_Projekt_jdrees.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network oversim.underlay.simpleunderlay.SimpleUnderlayNetwork
+attr processid 24551
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 1  SimpleUnderlayNetwork.globalObserver.globalStatistics  "GlobalNodeList: Number of nodes"  ETV
+1	548 17196 400 1600 50 60050 1201 5 5 6005 30025

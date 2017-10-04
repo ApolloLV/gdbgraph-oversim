@@ -1,0 +1,63 @@
+version 2
+run Hello_Example-0-20170429-15:18:35-8250
+attr configname Hello_Example
+attr datetime 20170429-15:18:35
+attr experiment Hello_Example
+attr inifile VADs_Example.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network oversim.underlay.simpleunderlay.SimpleUnderlayNetwork
+attr processid 8250
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 1  SimpleUnderlayNetwork.globalObserver.globalStatistics  "GlobalNodeList: Number of nodes"  ETV
+1	100	50	5
+1	101	100	5
+1	102	150	5
+1	103	200	5
+1	104	250	5
+1	105	300	5
+1	106	350	5
+1	107	400	5
+1	108	450	5
+1	109	500	5
+1	110	550	5
+1	111	600	5
+1	112	650	5
+1	113	700	5
+1	114	750	5
+1	115	800	5
+1	116	850	5
+1	117	900	5
+1	118	950	5
+1	119	1000	5
+1	120	1050	5
+1	121	1100	5
+1	122	1150	5
+1	123	1200	5
+1	124	1250	5
+1	125	1300	5
+1	126	1350	5
+1	127	1400	5
+1	128	1450	5
+1	129	1500	5
+1	130	1550	5
+1	131	1600	5
+1	132	1650	5
+1	133	1700	5
+1	134	1750	5
+1	135	1800	5
+1	136	1850	5
+1	137	1900	5
+1	138	1950	5
+1	139	2000	5
+1	140	2050	5
+1	141	2100	5
+1	142	2150	5
+1	143	2200	5
+1	144	2250	5

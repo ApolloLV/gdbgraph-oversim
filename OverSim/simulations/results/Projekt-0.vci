@@ -1,0 +1,21 @@
+file 4910 1498397346                                            
+version 2
+run Projekt-0-20170625-15:19:46-4808
+attr N 10
+attr configname Projekt
+attr datetime 20170625-15:19:46
+attr experiment Projekt
+attr inifile VADs_Example.ini
+attr iterationvars $N=10
+attr iterationvars2 "$N=10, $repetition=0"
+attr measurement $N=10
+attr network oversim.underlay.simpleunderlay.SimpleUnderlayNetwork
+attr processid 4808
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 1  SimpleUnderlayNetwork.globalObserver.globalStatistics  "GlobalNodeList: Number of nodes"  ETV
+1	543 4367 105 2373 50 15700 314 5 5 1570 7850

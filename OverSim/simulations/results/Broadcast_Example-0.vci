@@ -1,0 +1,20 @@
+file 571 1493914528                                             
+version 2
+run Broadcast_Example-0-20170504-18:14:45-4635
+attr configname Broadcast_Example
+attr datetime 20170504-18:14:45
+attr experiment Broadcast_Example
+attr inifile VADs_Example.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network oversim.underlay.simpleunderlay.SimpleUnderlayNetwork
+attr processid 4635
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 1  SimpleUnderlayNetwork.globalObserver.globalStatistics  "GlobalNodeList: Number of nodes"  ETV
+1	548 23 245 286 50 100 2 8 8 16 128

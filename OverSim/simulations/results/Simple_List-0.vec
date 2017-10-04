@@ -1,0 +1,33 @@
+version 2
+run Simple_List-0-20170625-22:49:55-22558
+attr configname Simple_List
+attr datetime 20170625-22:49:55
+attr experiment Simple_List
+attr inifile VADs_Projekt_jdrees.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network oversim.underlay.simpleunderlay.SimpleUnderlayNetwork
+attr processid 22558
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 1  SimpleUnderlayNetwork.globalObserver.globalStatistics  "GlobalNodeList: Number of nodes"  ETV
+1	301	50	10
+1	545	100	10
+1	695	150	10
+1	867	200	10
+1	1017	250	10
+1	1189	300	10
+1	1339	350	10
+1	1511	400	10
+1	1661	450	10
+1	1833	500	10
+1	1983	550	10
+1	2155	600	10
+1	2305	650	10
+1	2477	700	10
+1	2627	750	10
